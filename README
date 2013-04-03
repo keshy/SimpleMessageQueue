@@ -1,3 +1,7 @@
-** Simple Message Queue
+##Simple Message Queue
 
 A simple Django Web Application demonstrating the use of MongoDb as a message queue using 'Capped Collections' and 'Tailing cursors'.
+
+#References:
+- http://docs.mongodb.org/manual/core/capped-collections/
+- http://docs.mongodb.org/manual/tutorial/create-tailable-cursor/
